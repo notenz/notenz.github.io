@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.notenz",
+      "sha256_cert_fingerprints": [
+        "A9:DB:45:FC:53:7E:07:41:F1:86:7A:48:74:18:E3:17:FD:F7:F8:DE:37:32:A5:CD:D5:5A:FA:47:9C:15:06:4D"
+      ]
+    }
+  }
+]
